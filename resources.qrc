@@ -1,0 +1,4 @@
+<RCC>
+    <qresource prefix="/" lang="">   <file>images/opacity1.png</file>  <file>images/opacity2.png</file>  <file>images/lupe.png</file>  <file>images/plus.png</file> <file>images/spectrumShadow_small.png</file> <file>images/crossShadow.png</file> <file>images/schatten.png</file>  <file>images/spectrum_small.png</file>    <file>images/cross.png</file>
+<file>images/removeColorAssignment.png</file>  <file>images/leer.png</file> </qresource>
+</RCC>
